@@ -158,3 +158,8 @@ LT
 -----------
 
 5分で分かる動画の基礎
+
+@torufurukawa
+-------------
+
+google.appengine.ext.ndb
