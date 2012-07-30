@@ -162,4 +162,4 @@ LT
 @torufurukawa
 -------------
 
-google.appengine.ext.ndb
+from google.appengine.ext import ndb
